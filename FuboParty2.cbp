@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="FuboParty2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc-mingw32" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/FuboParty2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc-mingw32" />
+				<Linker>
+					<Add option="-lopengl32 -lglu32 -lfreeglut" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/FuboParty2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc-mingw32" />
+			</Target>
+		</Build>
+		<Linker>
+			<Add option="-lopengl32 -lglu32 -lfreeglut" />
+		</Linker>
+		<Unit filename="audio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="audio.h" />
+		<Unit filename="bocha.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bocha.h" />
+		<Unit filename="bowling.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bowling.h" />
+		<Unit filename="game_state.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="minigolf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="minigolf.h" />
+		<Unit filename="utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="utils.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

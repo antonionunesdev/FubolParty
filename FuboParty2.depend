@@ -1,0 +1,923 @@
+# depslib dependency file v1.0
+1759281301 source:c:\users\josev\downloads\fuboparty2\bowling.c
+	"bowling.h"
+	"utils.h"
+
+1759280969 c:\users\josev\downloads\fuboparty2\bowling.h
+	"game_state.h"
+
+1759283458 c:\users\josev\downloads\fuboparty2\game_state.h
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1759280985 c:\users\josev\downloads\fuboparty2\utils.h
+	"game_state.h"
+
+1759283462 source:c:\users\josev\downloads\fuboparty2\main.c
+	"game_state.h"
+	"utils.h"
+	"minigolf.h"
+	"bowling.h"
+
+1759280977 c:\users\josev\downloads\fuboparty2\minigolf.h
+	"game_state.h"
+
+1759281288 source:c:\users\josev\downloads\fuboparty2\minigolf.c
+	"minigolf.h"
+	"utils.h"
+
+1759281294 source:c:\users\josev\downloads\fuboparty2\utils.c
+	"utils.h"
+
+1759367127 source:c:\users\everton\downloads\fuboparty4\fuboparty4\fuboparty4\bowling.c
+	"bowling.h"
+	"utils.h"
+
+1759362974 c:\users\everton\downloads\fuboparty4\fuboparty4\fuboparty4\bowling.h
+	"game_state.h"
+
+1759369049 c:\users\everton\downloads\fuboparty4\fuboparty4\fuboparty4\game_state.h
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1759362974 c:\users\everton\downloads\fuboparty4\fuboparty4\fuboparty4\utils.h
+	"game_state.h"
+
+1759362974 source:c:\users\everton\downloads\fuboparty4\fuboparty4\fuboparty4\utils.c
+	"utils.h"
+
+1759369122 source:c:\users\everton\downloads\fuboparty4\fuboparty4\fuboparty4\main.c
+	<GL/freeglut.h>
+	"game_state.h"
+	"utils.h"
+	"minigolf.h"
+	"bowling.h"
+	"bocha.h"
+	"stb_image.h"
+
+1759362974 c:\users\everton\downloads\fuboparty4\fuboparty4\fuboparty4\minigolf.h
+	"game_state.h"
+
+1759323927 c:\users\everton\downloads\fuboparty4\fuboparty4\fuboparty4\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1759367335 source:c:\users\everton\downloads\fuboparty4\fuboparty4\fuboparty4\minigolf.c
+	"minigolf.h"
+	"utils.h"
+
+1759368076 c:\users\everton\downloads\fuboparty4\fuboparty4\fuboparty4\bocha.h
+	"game_state.h"
+
+1759367127 source:c:\users\anton\downloads\fuboparty4\fuboparty4\fuboparty4\bowling.c
+	"bowling.h"
+	"utils.h"
+
+1759362974 c:\users\anton\downloads\fuboparty4\fuboparty4\fuboparty4\bowling.h
+	"game_state.h"
+
+1759369049 c:\users\anton\downloads\fuboparty4\fuboparty4\fuboparty4\game_state.h
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1759362974 c:\users\anton\downloads\fuboparty4\fuboparty4\fuboparty4\utils.h
+	"game_state.h"
+
+1759369122 source:c:\users\anton\downloads\fuboparty4\fuboparty4\fuboparty4\main.c
+	<GL/freeglut.h>
+	"game_state.h"
+	"utils.h"
+	"minigolf.h"
+	"bowling.h"
+	"bocha.h"
+	"stb_image.h"
+
+1759362974 c:\users\anton\downloads\fuboparty4\fuboparty4\fuboparty4\minigolf.h
+	"game_state.h"
+
+1759368076 c:\users\anton\downloads\fuboparty4\fuboparty4\fuboparty4\bocha.h
+	"game_state.h"
+
+1759323927 c:\users\anton\downloads\fuboparty4\fuboparty4\fuboparty4\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1759367335 source:c:\users\anton\downloads\fuboparty4\fuboparty4\fuboparty4\minigolf.c
+	"minigolf.h"
+	"utils.h"
+
+1759362974 source:c:\users\anton\downloads\fuboparty4\fuboparty4\fuboparty4\utils.c
+	"utils.h"
+
+1759542469 source:c:\users\anton\downloads\fuboparty\bowling.c
+	"bowling.h"
+	"utils.h"
+
+1759362974 c:\users\anton\downloads\fuboparty\bowling.h
+	"game_state.h"
+
+1759541365 c:\users\anton\downloads\fuboparty\game_state.h
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1759362974 c:\users\anton\downloads\fuboparty\utils.h
+	"game_state.h"
+
+1759544204 source:c:\users\anton\downloads\fuboparty\main.c
+	<GL/freeglut.h>
+	"game_state.h"
+	"utils.h"
+	"minigolf.h"
+	"bowling.h"
+	"bocha.h"
+	"stb_image.h"
+
+1759544609 c:\users\anton\downloads\fuboparty\minigolf.h
+	"game_state.h"
+
+1759368076 c:\users\anton\downloads\fuboparty\bocha.h
+	"game_state.h"
+
+1759323927 c:\users\anton\downloads\fuboparty\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1759544166 source:c:\users\anton\downloads\fuboparty\minigolf.c
+	"minigolf.h"
+	"utils.h"
+	"game_state.h"
+
+1759362974 source:c:\users\anton\downloads\fuboparty\utils.c
+	"utils.h"
+
+1759541719 source:c:\users\anton\downloads\fuboparty\bocha.c
+	"bocha.h"
+	"utils.h"
+	"game_state.h"
+
+1759541719 source:c:\users\everton\downloads\fuboparty\fuboparty\bocha.c
+	"bocha.h"
+	"utils.h"
+	"game_state.h"
+
+1759368076 c:\users\everton\downloads\fuboparty\fuboparty\bocha.h
+	"game_state.h"
+
+1759634917 c:\users\everton\downloads\fuboparty\fuboparty\game_state.h
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1759362974 c:\users\everton\downloads\fuboparty\fuboparty\utils.h
+	"game_state.h"
+
+1759635724 source:c:\users\everton\downloads\fuboparty\fuboparty\bowling.c
+	"bowling.h"
+	"utils.h"
+
+1759362974 c:\users\everton\downloads\fuboparty\fuboparty\bowling.h
+	"game_state.h"
+
+1759635974 source:c:\users\everton\downloads\fuboparty\fuboparty\main.c
+	<GL/freeglut.h>
+	"game_state.h"
+	"utils.h"
+	"minigolf.h"
+	"bowling.h"
+	"bocha.h"
+	"stb_image.h"
+	"cgltf.h"
+
+1759544609 c:\users\everton\downloads\fuboparty\fuboparty\minigolf.h
+	"game_state.h"
+
+1759323927 c:\users\everton\downloads\fuboparty\fuboparty\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1759636057 source:c:\users\everton\downloads\fuboparty\fuboparty\minigolf.c
+	"minigolf.h"
+	"utils.h"
+	"game_state.h"
+
+1759362974 source:c:\users\everton\downloads\fuboparty\fuboparty\utils.c
+	"utils.h"
+
+1759611115 c:\users\everton\downloads\fuboparty\fuboparty\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
+1759362974 source:c:\users\everton\downloads\fubopartyv120\fuboparty\fuboparty\utils.c
+	"utils.h"
+
+1759362974 c:\users\everton\downloads\fubopartyv120\fuboparty\fuboparty\utils.h
+	"game_state.h"
+
+1759791177 c:\users\everton\downloads\fubopartyv120\fuboparty\fuboparty\game_state.h
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1759796795 source:c:\users\everton\downloads\fubopartyv120\fuboparty\fuboparty\main.c
+	<GL/freeglut.h>
+	"game_state.h"
+	"utils.h"
+	"minigolf.h"
+	"bowling.h"
+	"bocha.h"
+	"stb_image.h"
+	"cgltf.h"
+
+1759544608 c:\users\everton\downloads\fubopartyv120\fuboparty\fuboparty\minigolf.h
+	"game_state.h"
+
+1759362974 c:\users\everton\downloads\fubopartyv120\fuboparty\fuboparty\bowling.h
+	"game_state.h"
+
+1759368076 c:\users\everton\downloads\fubopartyv120\fuboparty\fuboparty\bocha.h
+	"game_state.h"
+
+1759323926 c:\users\everton\downloads\fubopartyv120\fuboparty\fuboparty\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1759611114 c:\users\everton\downloads\fubopartyv120\fuboparty\fuboparty\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
+1759798764 source:c:\users\everton\downloads\fubopartyv120\fuboparty\fuboparty\bocha.c
+	"bocha.h"
+	"utils.h"
+	"game_state.h"
+
+1759795679 source:c:\users\everton\downloads\fubopartyv120\fuboparty\fuboparty\bowling.c
+	"bowling.h"
+	"utils.h"
+	"game_state.h"
+
+1759791770 source:c:\users\everton\downloads\fubopartyv120\fuboparty\fuboparty\minigolf.c
+	"minigolf.h"
+	"utils.h"
+	"game_state.h"
+
+1759801636 source:c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\bocha.c
+	"bocha.h"
+	"utils.h"
+	"game_state.h"
+	"audio.h"
+
+1759799520 c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\bocha.h
+	"game_state.h"
+
+1759801535 c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\game_state.h
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1759799520 c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\utils.h
+	"game_state.h"
+
+1759806153 source:c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\bowling.c
+	"bowling.h"
+	"utils.h"
+	"game_state.h"
+	"audio.h"
+
+1759799520 c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\bowling.h
+	"game_state.h"
+
+1759802508 source:c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\minigolf.c
+	"minigolf.h"
+	"utils.h"
+	"game_state.h"
+
+1759799520 c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\minigolf.h
+	"game_state.h"
+
+1759799520 source:c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\utils.c
+	"utils.h"
+
+1759806355 source:c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\main.c
+	<GL/freeglut.h>
+	"game_state.h"
+	"utils.h"
+	"minigolf.h"
+	"bowling.h"
+	"bocha.h"
+	"audio.h"
+	"stb_image.h"
+	"cgltf.h"
+
+1759799520 c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1759799520 c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
+1759803642 c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\audio.h
+	"game_state.h"
+
+1759803687 source:c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\audio.c
+	"miniaudio.h"
+	"audio.h"
+	<stdio.h>
+
+1759800118 c:\users\josev\downloads\fubopartyv120 (2)\fubopartyv120\fuboparty\fuboparty\miniaudio.h
+	<stddef.h>
+	<stdint.h>
+	<pthread.h>
+	<stdalign.h>
+	<stdarg.h>
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	<float.h>
+	<windows.h>
+	<sched.h>
+	<pthread.h>
+	<sys/time.h>
+	<time.h>
+	<unistd.h>
+	<stat.h>
+	<sys/stat.h>
+	<emscripten/emscripten.h>
+	<stdint.h>
+	<immintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<sys/system_properties.h>
+	<errno.h>
+	<android/log.h>
+	<intrin.h>
+	<dlfcn.h>
+	<AvailabilityMacros.h>
+	<mach/mach_time.h>
+	<sys/types.h>
+	<audioclient.h>
+	<mmdeviceapi.h>
+	<poll.h>
+	<sys/eventfd.h>
+	<alsa/asoundlib.h>
+	<errno.h>
+	<pulse/pulseaudio.h>
+	<jack/jack.h>
+	<TargetConditionals.h>
+	<CoreAudio/CoreAudio.h>
+	<AVFoundation/AVFoundation.h>
+	<AudioToolbox/AudioToolbox.h>
+	<fcntl.h>
+	<sys/audioio.h>
+	<sys/soundcard.h>
+	<fcntl.h>
+	<poll.h>
+	<errno.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/ioctl.h>
+	<sys/audioio.h>
+	<sys/param.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/soundcard.h>
+	<AAudio/AAudio.h>
+	<SLES/OpenSLES.h>
+	<SLES/OpenSLES_Android.h>
+	<emscripten/emscripten.h>
+	<emscripten/webaudio.h>
+	<stddef.h>
+	<stddef.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrinsics.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<stdio.h>
+	<wchar.h>
+
+1759810475 source:c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\audio.c
+	"miniaudio.h"
+	"audio.h"
+	<stdio.h>
+
+1759800118 c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\miniaudio.h
+	<stddef.h>
+	<stdint.h>
+	<pthread.h>
+	<stdalign.h>
+	<stdarg.h>
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	<float.h>
+	<windows.h>
+	<sched.h>
+	<pthread.h>
+	<sys/time.h>
+	<time.h>
+	<unistd.h>
+	<stat.h>
+	<sys/stat.h>
+	<emscripten/emscripten.h>
+	<stdint.h>
+	<immintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<sys/system_properties.h>
+	<errno.h>
+	<android/log.h>
+	<intrin.h>
+	<dlfcn.h>
+	<AvailabilityMacros.h>
+	<mach/mach_time.h>
+	<sys/types.h>
+	<audioclient.h>
+	<mmdeviceapi.h>
+	<poll.h>
+	<sys/eventfd.h>
+	<alsa/asoundlib.h>
+	<errno.h>
+	<pulse/pulseaudio.h>
+	<jack/jack.h>
+	<TargetConditionals.h>
+	<CoreAudio/CoreAudio.h>
+	<AVFoundation/AVFoundation.h>
+	<AudioToolbox/AudioToolbox.h>
+	<fcntl.h>
+	<sys/audioio.h>
+	<sys/soundcard.h>
+	<fcntl.h>
+	<poll.h>
+	<errno.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/ioctl.h>
+	<sys/audioio.h>
+	<sys/param.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/soundcard.h>
+	<AAudio/AAudio.h>
+	<SLES/OpenSLES.h>
+	<SLES/OpenSLES_Android.h>
+	<emscripten/emscripten.h>
+	<emscripten/webaudio.h>
+	<stddef.h>
+	<stddef.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrinsics.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<stdio.h>
+	<wchar.h>
+
+1759810721 c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\audio.h
+	"game_state.h"
+
+1759810823 c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\game_state.h
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1759810546 source:c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\bocha.c
+	"bocha.h"
+	"utils.h"
+	"game_state.h"
+	"audio.h"
+
+1759810841 c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\bocha.h
+	"game_state.h"
+
+1759810787 c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\utils.h
+	"game_state.h"
+
+1759807086 source:c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\bowling.c
+	"bowling.h"
+	"utils.h"
+	"game_state.h"
+	"audio.h"
+
+1759810744 c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\bowling.h
+	"game_state.h"
+
+1759810467 source:c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\main.c
+	<GL/freeglut.h>
+	"game_state.h"
+	"utils.h"
+	"minigolf.h"
+	"bowling.h"
+	"bocha.h"
+	"audio.h"
+	"stb_image.h"
+	"cgltf.h"
+
+1759810795 c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\minigolf.h
+	"game_state.h"
+
+1759799520 c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1759799520 c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
+1759802508 source:c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\minigolf.c
+	"minigolf.h"
+	"utils.h"
+	"game_state.h"
+
+1759799520 source:c:\users\anton\downloads\fubopartyv199\fubopartyv199\fubopartyv120\fuboparty\fuboparty\utils.c
+	"utils.h"
+
+1759810924 source:c:\users\familia\downloads\fuboparty\audio.c
+	"miniaudio.h"
+	"audio.h"
+	<stdio.h>
+
+1759800118 c:\users\familia\downloads\fuboparty\miniaudio.h
+	<stddef.h>
+	<stdint.h>
+	<pthread.h>
+	<stdalign.h>
+	<stdarg.h>
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	<float.h>
+	<windows.h>
+	<sched.h>
+	<pthread.h>
+	<sys/time.h>
+	<time.h>
+	<unistd.h>
+	<stat.h>
+	<sys/stat.h>
+	<emscripten/emscripten.h>
+	<stdint.h>
+	<immintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<sys/system_properties.h>
+	<errno.h>
+	<android/log.h>
+	<intrin.h>
+	<dlfcn.h>
+	<AvailabilityMacros.h>
+	<mach/mach_time.h>
+	<sys/types.h>
+	<audioclient.h>
+	<mmdeviceapi.h>
+	<poll.h>
+	<sys/eventfd.h>
+	<alsa/asoundlib.h>
+	<errno.h>
+	<pulse/pulseaudio.h>
+	<jack/jack.h>
+	<TargetConditionals.h>
+	<CoreAudio/CoreAudio.h>
+	<AVFoundation/AVFoundation.h>
+	<AudioToolbox/AudioToolbox.h>
+	<fcntl.h>
+	<sys/audioio.h>
+	<sys/soundcard.h>
+	<fcntl.h>
+	<poll.h>
+	<errno.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/ioctl.h>
+	<sys/audioio.h>
+	<sys/param.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/soundcard.h>
+	<AAudio/AAudio.h>
+	<SLES/OpenSLES.h>
+	<SLES/OpenSLES_Android.h>
+	<emscripten/emscripten.h>
+	<emscripten/webaudio.h>
+	<stddef.h>
+	<stddef.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrinsics.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<stdio.h>
+	<wchar.h>
+
+1759810721 c:\users\familia\downloads\fuboparty\audio.h
+	"game_state.h"
+
+1759813218 c:\users\familia\downloads\fuboparty\game_state.h
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1759813186 source:c:\users\familia\downloads\fuboparty\bowling.c
+	"bowling.h"
+	"utils.h"
+	"game_state.h"
+	"audio.h"
+
+1759810744 c:\users\familia\downloads\fuboparty\bowling.h
+	"game_state.h"
+
+1759811918 c:\users\familia\downloads\fuboparty\utils.h
+	"game_state.h"
+
+1759813197 source:c:\users\familia\downloads\fuboparty\minigolf.c
+	"minigolf.h"
+	"utils.h"
+	"game_state.h"
+	"audio.h"
+
+1759810795 c:\users\familia\downloads\fuboparty\minigolf.h
+	"game_state.h"
+
+1759813221 source:c:\users\familia\downloads\fuboparty\utils.c
+	"utils.h"
+
+1759815048 source:c:\users\familia\downloads\fuboparty\bocha.c
+	"bocha.h"
+	"utils.h"
+	"game_state.h"
+	"audio.h"
+
+1759810841 c:\users\familia\downloads\fuboparty\bocha.h
+	"game_state.h"
+
+1759813055 source:c:\users\familia\downloads\fuboparty\main.c
+	<GL/freeglut.h>
+	"game_state.h"
+	"utils.h"
+	"minigolf.h"
+	"bowling.h"
+	"bocha.h"
+	"audio.h"
+	"stb_image.h"
+	"cgltf.h"
+
+1759799520 c:\users\familia\downloads\fuboparty\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1759799520 c:\users\familia\downloads\fuboparty\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
