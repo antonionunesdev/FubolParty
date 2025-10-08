@@ -5,10 +5,8 @@
 #include "bowling.h"
 #include "bocha.h"
 #include "audio.h"
-
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
-
 #define CGLTF_IMPLEMENTATION
 #include "cgltf.h"
 
@@ -23,6 +21,7 @@ int currentRound = 1;
 
 GLuint texFundo[6];
 GLuint logoTextureID;
+GLuint bolaTextures[6];
 
 const char* skyboxFiles[6] = {
     "texturas/corona_ft.png",
@@ -33,7 +32,6 @@ const char* skyboxFiles[6] = {
     "texturas/corona_dn.png"
 };
 
-GLuint bolaTextures[6];
 const char* bolaTextureFiles[6] = {
     "texturas/planeta.jpg",
     "texturas/ouro.jpg",
@@ -42,6 +40,7 @@ const char* bolaTextureFiles[6] = {
     "texturas/bola_verde.jpg",
     "texturas/estrada.jpg"
 };
+
 const char* skinNames[6] = {
     "Planeta",
     "Ouro",
@@ -50,6 +49,7 @@ const char* skinNames[6] = {
     "Verde",
     "Estrada"
 };
+
 int playerTextureSelections[MAX_PLAYERS] = {-1, -1, -1, -1};
 int selectingPlayer = 0;
 int selectedSkinIndex = 0;
@@ -90,22 +90,6 @@ int bochaFinishOrder[MAX_PLAYERS];
 GLuint texturaChaoBocha;
 GLuint texturaObstaculoBocha;
 bool hasPlayedPinFallSoundThisTurn = false;
-
-void displayPlayerSelection();
-void keyboardPlayerSelection(unsigned char key, int x, int y);
-void specialKeyPlayerSelection(int key, int x, int y);
-void displaySkinSelection();
-void keyboardSkinSelection(unsigned char key, int x, int y);
-void specialKeySkinSelection(int key, int x, int y);
-void displayGameSelection();
-void keyboardGameSelection(unsigned char key, int x, int y);
-void displayEndOfGame();
-void keyboardEndOfGame(unsigned char key, int x, int y);
-void startNextGameOrRound();
-void carregarTexturaComAlpha(GLuint* texturaID, const char* caminho);
-void drawTexturedQuad(GLuint textureID, float x, float y, float width, float height);
-void drawCenteredText(float y, const char* text);
-
 
 ModeloGLB carregarModeloGLB(const char* caminhoArquivo) {
     ModeloGLB modelo = {NULL, NULL, NULL, NULL, 0, 0, false};

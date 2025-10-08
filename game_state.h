@@ -112,6 +112,20 @@ extern float light0_position[4];
 
 extern bool hasPlayedPinFallSoundThisTurn;
 
+void displayPlayerSelection();
+void keyboardPlayerSelection(unsigned char key, int x, int y);
+void specialKeyPlayerSelection(int key, int x, int y);
+void displaySkinSelection();
+void keyboardSkinSelection(unsigned char key, int x, int y);
+void specialKeySkinSelection(int key, int x, int y);
+void displayGameSelection();
+void keyboardGameSelection(unsigned char key, int x, int y);
+void displayEndOfGame();
+void keyboardEndOfGame(unsigned char key, int x, int y);
+void startNextGameOrRound();
+void carregarTexturaComAlpha(GLuint* texturaID, const char* caminho);
+void drawTexturedQuad(GLuint textureID, float x, float y, float width, float height);
+void drawCenteredText(float y, const char* text);
 void desenharFundo(float camX, float camY, float camZ);
 void desenharModeloGLB(ModeloGLB modelo);
 void desenharModeloGLBComTextura(ModeloGLB modelo, GLboolean usarTextura);

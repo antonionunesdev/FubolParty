@@ -921,3 +921,192 @@
 	<float.h>
 	<stdlib.h>
 
+1759842011 source:c:\users\anton\downloads\fubolparty\fubolparty\audio.c
+	"miniaudio.h"
+	"audio.h"
+	<stdio.h>
+
+1759842011 c:\users\anton\downloads\fubolparty\fubolparty\miniaudio.h
+	<stddef.h>
+	<stdint.h>
+	<pthread.h>
+	<stdalign.h>
+	<stdarg.h>
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	<float.h>
+	<windows.h>
+	<sched.h>
+	<pthread.h>
+	<sys/time.h>
+	<time.h>
+	<unistd.h>
+	<stat.h>
+	<sys/stat.h>
+	<emscripten/emscripten.h>
+	<stdint.h>
+	<immintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<sys/system_properties.h>
+	<errno.h>
+	<android/log.h>
+	<intrin.h>
+	<dlfcn.h>
+	<AvailabilityMacros.h>
+	<mach/mach_time.h>
+	<sys/types.h>
+	<audioclient.h>
+	<mmdeviceapi.h>
+	<poll.h>
+	<sys/eventfd.h>
+	<alsa/asoundlib.h>
+	<errno.h>
+	<pulse/pulseaudio.h>
+	<jack/jack.h>
+	<TargetConditionals.h>
+	<CoreAudio/CoreAudio.h>
+	<AVFoundation/AVFoundation.h>
+	<AudioToolbox/AudioToolbox.h>
+	<fcntl.h>
+	<sys/audioio.h>
+	<sys/soundcard.h>
+	<fcntl.h>
+	<poll.h>
+	<errno.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/ioctl.h>
+	<sys/audioio.h>
+	<sys/param.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/soundcard.h>
+	<AAudio/AAudio.h>
+	<SLES/OpenSLES.h>
+	<SLES/OpenSLES_Android.h>
+	<emscripten/emscripten.h>
+	<emscripten/webaudio.h>
+	<stddef.h>
+	<stddef.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrinsics.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<stdio.h>
+	<wchar.h>
+
+1759842011 c:\users\anton\downloads\fubolparty\fubolparty\audio.h
+	"game_state.h"
+
+1759889863 c:\users\anton\downloads\fubolparty\fubolparty\game_state.h
+	<GL/freeglut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1759842011 source:c:\users\anton\downloads\fubolparty\fubolparty\bocha.c
+	"bocha.h"
+	"utils.h"
+	"game_state.h"
+	"audio.h"
+
+1759842011 c:\users\anton\downloads\fubolparty\fubolparty\bocha.h
+	"game_state.h"
+
+1759842011 c:\users\anton\downloads\fubolparty\fubolparty\utils.h
+	"game_state.h"
+
+1759842011 source:c:\users\anton\downloads\fubolparty\fubolparty\bowling.c
+	"bowling.h"
+	"utils.h"
+	"game_state.h"
+	"audio.h"
+
+1759842011 c:\users\anton\downloads\fubolparty\fubolparty\bowling.h
+	"game_state.h"
+
+1759842011 source:c:\users\anton\downloads\fubolparty\fubolparty\main.c
+	<GL/freeglut.h>
+	"game_state.h"
+	"utils.h"
+	"minigolf.h"
+	"bowling.h"
+	"bocha.h"
+	"audio.h"
+	"stb_image.h"
+	"cgltf.h"
+
+1759842011 c:\users\anton\downloads\fubolparty\fubolparty\minigolf.h
+	"game_state.h"
+
+1759842011 c:\users\anton\downloads\fubolparty\fubolparty\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1759842011 c:\users\anton\downloads\fubolparty\fubolparty\cgltf.h
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	<stdlib.h>
+
+1759842011 source:c:\users\anton\downloads\fubolparty\fubolparty\minigolf.c
+	"minigolf.h"
+	"utils.h"
+	"game_state.h"
+	"audio.h"
+
+1759842011 source:c:\users\anton\downloads\fubolparty\fubolparty\utils.c
+	"utils.h"
+
